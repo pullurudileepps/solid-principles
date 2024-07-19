@@ -1,0 +1,3 @@
+Open/Closed Principle says that if you have new requirement then module says
+ that Open for extension and closed for modification.
+

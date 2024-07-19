@@ -1,0 +1,5 @@
+
+Principle: Use abstraction instead of concrete implementation. High level module should
+Not depend on Low level module but both
+Should depend on the abstraction
+

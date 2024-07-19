@@ -1,0 +1,2 @@
+Liskov Substitution principle:
+Derived classes must be completely substitutable for their base classes.
